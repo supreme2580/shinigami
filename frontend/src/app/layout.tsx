@@ -25,7 +25,7 @@ export default function RootLayout({
           className={`
             ${commonClasses}
             bg-black bg-contain bg-top bg-no-repeat
-            bg-[url('/stars.png')]
+            bg-[url('/stars.png')] min-h-screen
           `}
         >
           <div
